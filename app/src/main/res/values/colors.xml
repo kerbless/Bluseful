@@ -8,4 +8,5 @@
     <color name="black">#000000</color>
     <color name="white">#ffffff</color>
     <color name="error">#F44336</color>
+    <color name="hint">#757575</color>
 </resources>

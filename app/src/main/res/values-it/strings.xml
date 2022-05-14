@@ -13,6 +13,7 @@
     <string name="no_id">Non hai inserito il tuo Identificatore personale</string>
     <string name="no_balance">Non hai inserito il tuo credito</string>
     <string name="output">Il feedback verrà mostrato qui…</string>
-    <string name="success">Dati calcolati correttamente.</string>
+    <string name="input_success">Dati calcolati correttamente.</string>
     <string name="ride_information">Informazioni corsa</string>
+    <string name="missing_input">Non hai riempito tutti i campi</string>
 </resources>
