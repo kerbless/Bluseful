@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bluseful</string>s
+    <string name="initial_stop">Initial stop</string>
+    <string name="end_stop">End stop</string>
+    <string name="bus_line">Bus line</string>
+    <string name="personal_id">Personal ID</string>
+    <string name="balance">Balance</string>
+    <string name="calculate">Calculate</string>
+    <string name="no_inital_stop">You didn\'t enter an initial stop.</string>
+    <string name="no_end_stop">You didn\'t enter an end stop.</string>
+    <string name="no_line">You didn\'t enter a bus line.</string>
+    <string name="no_id">You didn\'t enter your personal ID.</string>
+    <string name="no_balance">You didn\'t enter your balance.</string>
+    <string name="output">Feedback will be shown here…</string>
+    <string name="success">Successfully calculated data.</string>
+    <string name="ride_information">Ride information</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluseful</string>
+    <string name="initial_stop">Fermata iniziale</string>
+    <string name="end_stop">Fermata finale</string>
+    <string name="bus_line">Linea autobus</string>
+    <string name="personal_id">Identificatore personale</string>
+    <string name="balance">Credito</string>
+    <string name="calculate">Calcola</string>
+    <string name="no_inital_stop">Non hai inserito la fermata iniziale</string>
+    <string name="no_end_stop">Non hai inserito la fermata finale</string>
+    <string name="no_line">Non hai inserito la linea dell\'autobus</string>
+    <string name="no_id">Non hai inserito il tuo Identificatore personale</string>
+    <string name="no_balance">Non hai inserito il tuo credito</string>
+    <string name="output">Il feedback verrà mostrato qui…</string>
+    <string name="success">Dati calcolati correttamente.</string>
+    <string name="ride_information">Informazioni corsa</string>
+</resources>

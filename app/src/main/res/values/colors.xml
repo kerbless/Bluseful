@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainA">#61a5c2</color>
+    <color name="mainB">#2a6f97</color>
+    <color name="mainC">#014f86</color>
+    <color name="accentA">#03dac5</color>
+    <color name="accentB">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="error">#F44336</color>
+</resources>
