@@ -12,6 +12,7 @@
     <string name="no_id">You didn\'t enter your personal ID.</string>
     <string name="no_balance">You didn\'t enter your balance.</string>
     <string name="output">Feedback will be shown here…</string>
-    <string name="success">Successfully calculated data.</string>
+    <string name="input_success">Successfully calculated data.</string>
     <string name="ride_information">Ride information</string>
+    <string name="missing_input">You didn\'t fill all fields</string>
 </resources>
